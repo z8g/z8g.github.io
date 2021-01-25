@@ -166,7 +166,6 @@ body {
   border-radius: 10%;
   background-color: #000000;
   opacity: 0.45;
-  overflow: hidden;
   -webkit-transform: translateY(66px);
   transform: translateY(66px);
   -webkit-transition: -webkit-transform 200ms ease-in-out;
