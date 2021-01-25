@@ -102,7 +102,7 @@ body::-webkit-scrollbar {
 }
 body {
   width: 100%;
-  max-width: 680px;
+  max-width: 1600px;
   padding: 0 14px;
   margin: 0 auto;
 }
