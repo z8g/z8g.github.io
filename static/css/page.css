@@ -5,6 +5,8 @@
 }
 .list-post li {
   padding: 12px 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
 .list-post li .date {

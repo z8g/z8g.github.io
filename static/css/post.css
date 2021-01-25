@@ -112,6 +112,7 @@ body {
 .page-post pre {
   font-size: 0;
   padding: 10px;
+  overflow: auto;
   border-radius: 2px;
   background-color: #f7f7f7;
   max-height: 610px;
@@ -152,6 +153,7 @@ body {
   background-color: #f9f9f9;
 }
 .page-post .table-container {
+  overflow: auto;
   margin: 14px 0;
   border: 1px solid #dddddd;
 }
