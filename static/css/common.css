@@ -50,12 +50,12 @@ a {
   text-decoration: none;
 }
 ::-webkit-scrollbar {
-  width: 4px;
-  height: 4px;
+  width: 16px;
+  height: 16px;
   background-color: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  border-radius: 2px;
+  border-radius: 10px;
   background-color: #999999;
 }
 ::selection {
